@@ -1,4 +1,4 @@
-# Arthur Franklin - Desenvolvedor de Sistemas
+# **Arthur Franklin** - Desenvolvedor de Sistemas
 
 Estudante de Desenvolvimento de Sistemas, adquirindo experiência na criação de aplicações em **Python**. Com conhecimento e experiência em Design Gráfico. Durante o curso, desenvolvi diversas aplicações, como um sistema de gerenciamento de dados, soluções para cálculos avançados e um minigame interativo.
 
