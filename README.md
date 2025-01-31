@@ -17,3 +17,5 @@ Estudante de Desenvolvimento de Sistemas com experiência na criação de aplica
 
 ### Sistemas
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/windows11.png" alt="Windows11" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/linux%20mint.png" alt="Linux Mint" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/linux%20ubuntu.svg" alt="Linux Ubuntu" width="40" height="40">&nbsp;
