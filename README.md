@@ -12,7 +12,7 @@ Estudante de Desenvolvimento de Sistemas com experiência na criação de aplica
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/illustrator.svg" alt="Illustrator" width="40" height="40">&nbsp;
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/premiere.svg" alt="Premiere" width="40" height="40">&nbsp;
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/creativecloud.svg" alt="Creative" width="40" height="40">&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/canva.svg" alt="Canva" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/canva.png" alt="Canva" width="40" height="40">&nbsp;
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/figma.svg" alt="Figma" width="40" height="40">&nbsp;
 
 ### Sistemas
