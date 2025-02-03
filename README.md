@@ -1,6 +1,6 @@
 # **Arthur Franklin** - Desenvolvedor de Software
 
-##### Estudante de Desenvolvimento de Software, entusiasta da tecnologia da informação e da informática no geral, com experiência em Python. #####
+Estudante de Desenvolvimento de Software, entusiasta da tecnologia da informação e da informática no geral, com experiência em Python.
 
 
 
