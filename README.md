@@ -3,20 +3,25 @@
 Estudante de Desenvolvimento de Sistemas, adquirindo experiência na criação de aplicações em **Python**. Com conhecimento e experiência em Design Gráfico. Durante o curso, desenvolvi diversas aplicações, como um sistema de gerenciamento de dados, soluções para cálculos avançados e um minigame interativo.
 
 ### Linguagens
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Python.svg" alt="Python" width="40" height="40">&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/python.svg" alt="Python" width="40" height="40">&nbsp;&nbsp;
 
 ### Ferramentas
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/VS%20Code.svg" alt="VS Code" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Pycharm.svg" alt="Pycharm" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Photoshop.png" alt="Photoshop" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Illustrator.png" alt="Illustrator" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Premiere.png" alt="Premiere" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Bridge.png" alt="Bridge" width="41" height="41">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Creative Cloud.png" alt="Creative" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Canva.png" alt="Canva" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Figma.png" alt="Figma" width="41" height="41">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/visualstudio.svg" alt="VS Code" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/pycharm.svg" alt="Pycharm" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/photoshop.png" alt="Photoshop" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/illustrator.png" alt="Illustrator" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/premiere.png" alt="Premiere" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/bridge.png" alt="Bridge" width="41" height="41">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/creative_cloud.png" alt="Creative" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/canva.png" alt="Canva" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/figma.png" alt="Figma" width="41" height="41">&nbsp;&nbsp;&nbsp;
 
 ### Sistemas
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Windows%2011.png" alt="Windows11" width="40" height="40">&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Linux%20Mint.png" alt="Linux Mint" width="40" height="40">&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/Linux%20Ubuntu.png" alt="Linux Ubuntu" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/windows11.png" alt="Windows11" width="40" height="40">&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_mint.png" alt="Linux Mint" width="40" height="40">&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_ubuntu.png" alt="Linux Ubuntu" width="40" height="40">&nbsp;
+
+### Contato
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linkedin.png" alt="LinkedIn" width="40" height="40">&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/github.png" alt="Github" width="40" height="40">&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/gmail.png" alt="Gmail" width="40" height="40">&nbsp;&nbsp;
