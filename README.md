@@ -17,9 +17,9 @@ Estudante de Desenvolvimento de Sistemas, adquirindo experiência na criação d
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/figma.png" alt="Figma" width="41" height="41">&nbsp;&nbsp;&nbsp;
 
 ### Sistemas
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/windows11.png" alt="Windows11" width="40" height="40">&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_mint.png" alt="Linux Mint" width="40" height="40">&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_ubuntu.png" alt="Linux Ubuntu" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/windows11.png" alt="Windows11" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_mint.png" alt="Linux Mint" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_ubuntu.png" alt="Linux Ubuntu" width="40" height="40">&nbsp;&nbsp;&nbsp;
 
 ### Contato
 <a href="https://github.com/arthurcfranklin" target="_blank">
