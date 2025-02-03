@@ -22,6 +22,14 @@ Estudante de Desenvolvimento de Sistemas, adquirindo experiência na criação d
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_ubuntu.png" alt="Linux Ubuntu" width="40" height="40">&nbsp;
 
 ### Contato
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linkedin.png" alt="LinkedIn" width="40" height="40">&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/github.png" alt="Github" width="40" height="40">&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/gmail.png" alt="Gmail" width="40" height="40">&nbsp;&nbsp;
+<a href="https://github.com/arthurcfranklin" target="_blank">
+    <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/github.png" alt="Github" width="40" height="40">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arthurfranklin/" target="_blank">
+    <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linkedin.png" alt="LinkedIn" width="40" height="40">
+</a>&nbsp;&nbsp;
+<a href="mailto:arthurdcaf@gmail.com">
+    <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/gmail.png" alt="Gmail" width="40" height="40">
+</a>
+
+
