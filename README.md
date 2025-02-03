@@ -2,6 +2,10 @@
 
 Estudante de Desenvolvimento de Sistemas, adquirindo experiência na criação de aplicações em **Python**. Com conhecimento e experiência em Design Gráfico. Durante o curso, desenvolvi diversas aplicações, como um sistema de gerenciamento de dados, soluções para cálculos avançados e um minigame interativo.
 
+### **Estatísticas**
+
+[![Arthur Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurcfranklin&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
+
 ### **Linguagens**
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/python.svg" alt="Python" width="40" height="40">&nbsp;&nbsp;
 
