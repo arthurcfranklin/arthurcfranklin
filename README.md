@@ -6,8 +6,8 @@ Estudante de Desenvolvimento de Sistemas, adquirindo experiência na criação d
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/python.svg" alt="Python" width="40" height="40">&nbsp;
 
 ### Ferramentas
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/vscode.svg" alt="VsCode" width="40" height="40">&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/pycharm.svg" alt="Pycharm" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/Icons/.svg" alt="VsCode" width="40" height="40">&nbsp;
+<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/mainIcons/VS%20Code.svg" alt="VsCode" width="40" height="40">&nbsp;
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/photoshop.svg" alt="Photoshop" width="40" height="40">&nbsp;
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/illustrator.svg" alt="Illustrator" width="40" height="40">&nbsp;
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icons/premiere.svg" alt="Premiere" width="40" height="40">&nbsp;
