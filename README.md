@@ -1,10 +1,8 @@
 # **Arthur Franklin** - Desenvolvedor de Software
 
-Estudante de Desenvolvimento de Software, entusiasta da tecnologia da informação e da informática no geral, com experiência em Python. Busco sempre integrar soluções criativas e inovadoras ao design nas minhas aplicações.
+##### Estudante de Desenvolvimento de Software, entusiasta da tecnologia da informação e da informática no geral, com experiência em Python. #####
 
-### **Estatísticas**
 
-[![Arthur Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurcfranklin&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
 
 ### **Linguagens**
 <img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/python.svg" alt="Python" width="40" height="40">&nbsp;&nbsp;
