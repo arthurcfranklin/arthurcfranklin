@@ -13,7 +13,7 @@ Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a pass
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,figma)](https://skillicons.dev)<br>
 
 ### 🖥️ Operating Systems:<br>
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,apple)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,arch,apple)](https://skillicons.dev)<br><br>
 
 ## 📫 Contact me here:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurfranklin/)](https://www.linkedin.com/in/arthurfranklin/)
