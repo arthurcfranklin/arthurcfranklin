@@ -1,29 +1,21 @@
-# **Arthur Franklin** - Desenvolvedor de Software
+## <p align="center">  Welcome to my GitHub. Great to see you here!
 
-Estudante de Desenvolvimento de Software, entusiasta da tecnologia da informação e da informática no geral, com experiência em Python.
+Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a passion for technology and computing, experienced in **Python**. I'm also a self-taught **graphic designer** with 8 years of experience, specializing in creating visual content for social media.<br><br>
 
+## 🚀 What I'm learning: 
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br><br>
 
+## 🛠️ Tools and Technologies:
+### 💾 Development and Programming:<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,vscodium,mysql,git,github)](https://skillicons.dev)<br>
 
-### **Linguagens**
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/python.svg" alt="Python" width="40" height="40">&nbsp;&nbsp;
+### 🎨 Graphic Design and Editing:<br>
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,figma)](https://skillicons.dev)<br>
 
-### **Ferramentas**
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/visualstudio.svg" alt="VS Code" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/pycharm.svg" alt="Pycharm" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/photoshop.png" alt="Photoshop" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/illustrator.png" alt="Illustrator" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/premiere.png" alt="Premiere" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/bridge.png" alt="Bridge" width="41" height="41">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/creative_cloud.png" alt="Creative" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/canva.png" alt="Canva" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/figma.png" alt="Figma" width="41" height="41">&nbsp;&nbsp;&nbsp;
+### 🖥️ Operating Systems:<br>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,apple)](https://skillicons.dev)<br><br>
 
-### **Sistemas**
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/windows11.png" alt="Windows11" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_mint.png" alt="Linux Mint" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linux_ubuntu.png" alt="Linux Ubuntu" width="40" height="40">&nbsp;&nbsp;&nbsp;
-
-### **Contato**
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/linkedin.png" alt="LinkedIn" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/github.png" alt="Github" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/arthurcfranklin/arthurcfranklin/blob/main/icones/gmail.png" alt="Gmail" width="40" height="40">&nbsp;&nbsp;&nbsp;
+## 📫 Contact me here:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurfranklin/)](https://www.linkedin.com/in/arthurfranklin/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurdcaf@gmail.com)](mailto:arthurdcaf@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://instagram.com)](https://instagram.com)
