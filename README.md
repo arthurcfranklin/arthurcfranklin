@@ -7,7 +7,7 @@ Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a pass
 
 ## 🛠️ Tools and Technologies:
 ### 💾 Development and Programming:<br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,vscodium,replit,mysql,git,github)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,vscodium,mysql,git,github)](https://skillicons.dev)<br>
 
 ### 🎨 Graphic Design and Editing:<br>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,figma)](https://skillicons.dev)<br>
