@@ -9,6 +9,9 @@ Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a pass
 ### 💾 Development and Programming:<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql,git,github)](https://skillicons.dev)<br>
 
+### 🧩 Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)<br>
+
 ### 🎨 Graphic Design and Editing:<br>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,figma)](https://skillicons.dev)<br>
 
