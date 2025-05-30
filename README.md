@@ -42,6 +42,7 @@ Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a pass
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 
+
 ## Contact me here:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurfranklin/)](https://www.linkedin.com/in/arthurfranklin/)
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurcfranklin)
