@@ -2,7 +2,7 @@
 
 Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a passion for technology and computing, experienced in **Python**. I'm also a self-taught **graphic designer** with 8 years of experience, specializing in creating visual content for social media.<br><br>
 
-## 🛠️ Skills:
+## 🛠️ Skills
 ### Programming Languages:<br>
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,css,html)](https://skillicons.dev)<br>
 
