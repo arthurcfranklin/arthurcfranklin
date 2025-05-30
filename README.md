@@ -44,7 +44,7 @@ Hey, I'm **Arthur Franklin**! I'm an aspiring **software developer** with a pass
 
 ## Contact me here:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurfranklin/)](https://www.linkedin.com/in/arthurfranklin/)
-[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurfranklin)
+[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurcfranklin)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/arthurcfranklin)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurdcaf@gmail.com)](mailto:arthurdcaf@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://instagram.com)](https://instagram.com)
