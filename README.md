@@ -12,7 +12,6 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 [![Language](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 
-
 ### Data Bases and Version Control:<br>
 [![Database and Version Control](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github)](https://skillicons.dev)
 
