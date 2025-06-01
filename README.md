@@ -36,4 +36,3 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurcfranklin)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/arthurcfranklin)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurdcaf@gmail.com)](mailto:arthurdcaf@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://instagram.com)](https://instagram.com)
