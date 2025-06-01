@@ -17,7 +17,7 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 
 
 ### Frameworks and IDEs:
-[![Database and Version Control](https://skillicons.dev/icons?i=django,flask,vscode,pycharm,replit)](https://skillicons.dev)
+[![Database and Version Control](https://skillicons.dev/icons?i=django,flask,vscode,vscodium,pycharm,replit)](https://skillicons.dev)
 
 
 ### Operating Systems:<br>
@@ -28,7 +28,7 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 [![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,xd,figma)](https://skillicons.dev)
 
 ### Productivity:<br>
-[![Productivity](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
+[![Productivity](https://skillicons.dev/icons?i=notion,obsidian,md)](https://skillicons.dev)
 
 
 ## 📧 Connect with me:
