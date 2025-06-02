@@ -8,12 +8,8 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 
 ## 🛠️ Skills
 
-### Programming Languages:<br>
-[![Language](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
-
-
-### Web Development:<br>
-[![Web](https://skillicons.dev/icons?i=html,css,md)](https://skillicons.dev)
+### Technologies:<br>
+[![Techno](https://skillicons.dev/icons?i=py,js,html,css,md)](https://skillicons.dev)
 
 
 ### Database and Version Control:<br>
