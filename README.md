@@ -27,12 +27,13 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 ### Design:<br>
 [![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,xd,figma)](https://skillicons.dev)
 
+
 ### Productivity:<br>
 [![Productivity](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
 
 
 ## 📧 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfranklin/)
-[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurcfranklin)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/arthurcfranklin)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurdcaf@gmail.com)](mailto:arthurdcaf@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurcfranklin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/arthurcfranklin)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurdcaf@gmail.com)](mailto:arthurdcaf@gmail.com)
