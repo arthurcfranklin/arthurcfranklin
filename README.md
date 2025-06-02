@@ -13,7 +13,7 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 
 
 ### Database and Version Control:<br>
-[![Database and Version Control](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github)](https://skillicons.dev)
+[![Database and Version Control](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,gitlab)](https://skillicons.dev)
 
 
 ### Frameworks and IDEs:
