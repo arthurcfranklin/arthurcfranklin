@@ -9,7 +9,11 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 ## 🛠️ Skills
 
 ### Programming Languages:<br>
-[![Language](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
+
+
+### Web Development:<br>
+[![Web](https://skillicons.dev/icons?i=html,css,md)](https://skillicons.dev)
 
 
 ### Database and Version Control:<br>
@@ -28,7 +32,7 @@ In parallel, I'm also a self-taught **graphic designer** with  **9 years** of ex
 [![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,xd,figma)](https://skillicons.dev)
 
 ### Productivity:<br>
-[![Productivity](https://skillicons.dev/icons?i=notion,obsidian,md)](https://skillicons.dev)
+[![Productivity](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
 
 
 ## 📧 Connect with me:
