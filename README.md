@@ -1,8 +1,17 @@
 ## <p align="center">  Welcome to my GitHub. Great to see you here!👋
 
-Hey, I'm **Arthur Franklin**! I'm currently pursuing a degree in **Analysis and Systems Development**, and I'm an aspiring **software developer** with a passion for **technology** and **computing**, experienced in **Python**. 
+Hey, I'm **Arthur Franklin**! I'm currently pursuing a degree in **Analysis and Systems Development** and also hold a technical degree in **Software Development**. I'm passionate about **technology** and **computing**, with hands-on experience in programming, project analysis, and project management, developing solutions using **Python**, SQL, and MySQL.
 
-In parallel, I'm also a self-taught **graphic designer** with  **9 years** of experience, specializing in creating visual content for social media.<br><br>
+In parallel, I have **9 years** of experience as a self-taught **graphic designer**, which enhances my work in **UX/UI design** and the **development** of user-centered digital solutions.<br><br>
+
+
+
+
+
+
+
+
+
 
 
 
