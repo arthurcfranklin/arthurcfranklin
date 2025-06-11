@@ -22,7 +22,7 @@ In parallel, I have **9 years** of experience as a self-taught **graphic designe
 
 
 ### Database and Version Control:<br>
-[![Database and Version Control](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,gitlab)](https://skillicons.dev)
+[![Database and Version Control](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,github,gitlab)](https://skillicons.dev)
 
 
 ### Frameworks and IDEs:
@@ -38,7 +38,7 @@ In parallel, I have **9 years** of experience as a self-taught **graphic designe
 
 
 ### Productivity:<br>
-[![Productivity](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
+[![Productivity](https://skillicons.dev/icons?i=notion,slack,obsidian)](https://skillicons.dev)
 
 
 ## 📧 Connect with me:
