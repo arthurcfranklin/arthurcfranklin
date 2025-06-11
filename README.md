@@ -38,7 +38,7 @@ In parallel, I have **9 years** of experience as a self-taught **graphic designe
 
 
 ### Productivity:<br>
-[![Productivity](https://skillicons.dev/icons?i=notion,slack,obsidian)](https://skillicons.dev)
+[![Productivity](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
 
 
 ## 📧 Connect with me:
