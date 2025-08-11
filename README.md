@@ -4,17 +4,6 @@ Hey, I'm **Arthur Franklin**! I'm currently pursuing a degree in **Analysis and 
 
 In parallel, I have **9 years** of experience as a self-taught **graphic designer**, which enhances my work in **UX/UI design** and the **development** of user-centered digital solutions.<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
 ## 🛠️ Skills
 
 ### Technologies:<br>
@@ -33,8 +22,8 @@ In parallel, I have **9 years** of experience as a self-taught **graphic designe
 [![Operating Systems](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,arch,apple)](https://skillicons.dev)
 
 
-### Design:<br>
-[![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,xd,figma)](https://skillicons.dev)
+### Design and Media:<br>
+[![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,aftereffects,blender,xd,figma)](https://skillicons.dev)
 
 
 ### Productivity:<br>
