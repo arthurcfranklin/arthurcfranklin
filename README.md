@@ -23,7 +23,7 @@ In parallel, I have **9 years** of experience as a self-taught **graphic designe
 
 
 ### Design and Media:<br>
-[![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,aftereffects,blender,xd,figma)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,audition,aftereffects,xd,figma,blender)](https://skillicons.dev)
 
 
 ### Productivity:<br>
