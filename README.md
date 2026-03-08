@@ -8,20 +8,27 @@ Experiência em suporte técnico, troubleshooting e gestão de ambientes de TI, 
 
 ## 🛠️ Ferramentas
 
-### Tecnologias e Linguagens:<br>
-[![Techno](https://skillicons.dev/icons?i=py,js,html,css,md)](https://skillicons.dev)
+### Linguagens e Automação:<br>
+[![Techno](https://skillicons.dev/icons?i=py,mysql,postgres,markdown)](https://skillicons.dev)
 
 
-### Banco de Dados e Controle de Versão:<br>
-[![Database and Version Control](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,github,gitlab)](https://skillicons.dev)
+### Banco de Dados:<br>
+[![Database and Version Control](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 
-### Frameworks e IDEs:
-[![Database and Version Control](https://skillicons.dev/icons?i=django,flask,vscode,vscodium,pycharm,replit)](https://skillicons.dev)
+### Ferramentas e IDEs:
+[![Database and Version Control](https://skillicons.dev/icons?i=vscode,vscodium,pycharm)](https://skillicons.dev)
 
 
 ### Sistemas Operacionais:<br>
 [![Operating Systems](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,debian,arch,apple)](https://skillicons.dev)
+
+
+### Infraestrutura e Monitoramento:<br>
+[![Infra](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/proxmox.png" width="48"/>
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zabbix.png" width="48"/>
+
 
 ## 📧 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfranklin/)
