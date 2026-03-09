@@ -9,7 +9,7 @@ Experiência em suporte técnico, troubleshooting e gestão de ambientes de TI, 
 ## 🛠️ Ferramentas
 
 ### Linguagens e Automação:<br>
-[![Techno](https://skillicons.dev/icons?i=py,mysql,postgres,markdown)](https://skillicons.dev)
+[![Techno](https://skillicons.dev/icons?i=py,javascript,markdown)](https://skillicons.dev)
 
 
 ### Banco de Dados:<br>
@@ -21,7 +21,7 @@ Experiência em suporte técnico, troubleshooting e gestão de ambientes de TI, 
 
 
 ### Sistemas Operacionais:<br>
-[![Operating Systems](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu,debian,arch,apple)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=windows,mint,ubuntu,debian,arch,apple)](https://skillicons.dev)
 
 
 ### Infraestrutura e Monitoramento:<br>
