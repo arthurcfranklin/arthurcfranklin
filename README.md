@@ -29,8 +29,6 @@ Experiência em suporte técnico, troubleshooting e gestão de ambientes de TI, 
 
 ### Infraestrutura e Monitoramento:<br>
 [![Infra](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/proxmox.png" width="48"/>
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zabbix.png" width="48"/>
 
 
 ## 📧 Vamos nos conectar?
