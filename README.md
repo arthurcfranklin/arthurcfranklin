@@ -22,13 +22,16 @@ Experiência em suporte técnico, troubleshooting e gestão de ambientes de TI, 
 
 ### Sistemas Operacionais:<br>
 [![Operating Systems](https://skillicons.dev/icons?i=windows,mint,ubuntu,debian)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zorin.png" width="48"/>
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/fedora.png" width="48"/>
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zorin.png" width="47"/>
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/fedora.png" width="47"/>
 [![Operating Systems](https://skillicons.dev/icons?i=arch,apple)](https://skillicons.dev)
 
 
 ### Infraestrutura e Monitoramento:<br>
 [![Infra](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zabbix.png" width="47"/>
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/proxmox.png" width="47"/>
+<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/dude.png" width="47"/>
 
 
 ## 📧 Vamos nos conectar?
