@@ -1,41 +1,76 @@
-## <p align="center">  Bem-vindo ao meu GitHub. Que bom te ver por aqui!👋
+<h1 align="center">Olá, seja bem-vindo ao meu GitHub 👋</h1>
 
-Olá, eu sou o ****Arthur Franklin****, um profissional de TI com foco em ****Infraestrutura****, ****Suporte Técnico**** e ****Automação de Processos****.
+<p align="center">
+  Auxiliar de TI | Infraestrutura | Monitoramento | Observabilidade | Automação com Python
+</p>
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, com formação técnica em Desenvolvimento de Sistemas. Utilizo Python como ferramenta estratégica para automação de rotinas operacionais, monitoramento de ambientes e gestão de ativos de TI, além de conhecimentos em SQL e bancos de dados relacionais.
+---
 
-Experiência em suporte técnico, troubleshooting e gestão de ambientes de TI, com interesse em estabilidade operacional, melhoria contínua e eficiência dos processos de tecnologia.<br><br>
+## 👨‍💻 Sobre
 
-## 🛠️ Ferramentas
+Profissional de TI com atuação em suporte técnico, monitoramento de ambientes, observabilidade e análise de incidentes.
 
-### Linguagens e Automação:<br>
-[![Techno](https://skillicons.dev/icons?i=py,javascript,markdown)](https://skillicons.dev)
+Granduando em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas, com interesse em Infraestrutura, Observabilidade, Administração de Sistemas Linux e Redes de Computadores.
 
+---
 
-### Banco de Dados:<br>
-[![Database and Version Control](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+## 🎯 Áreas de Interesse
 
+- Infraestrutura de TI
+- Monitoramento e Observabilidade
+- Administração de Sistemas Linux
+- Gestão de Ativos de TI
+- Redes e Serviços
+- Cloud e Virtualização
 
-### Ferramentas e IDEs:
-[![Database and Version Control](https://skillicons.dev/icons?i=vscode,vscodium,pycharm)](https://skillicons.dev)
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-### Sistemas Operacionais:<br>
-[![Operating Systems](https://skillicons.dev/icons?i=windows,mint,ubuntu,debian)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zorin.png" width="47"/>
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/fedora.png" width="47"/>
-[![Operating Systems](https://skillicons.dev/icons?i=arch,apple)](https://skillicons.dev)
+### Linguagens
 
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Markdown](https://skillicons.dev/icons?i=markdown)
 
-### Infraestrutura e Monitoramento:<br>
+### Banco de Dados
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+### Sistemas Operacionais
+
+![Windows](https://skillicons.dev/icons?i=windows)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Apple](https://skillicons.dev/icons?i=apple)
+
+### Infraestrutura e Monitoramento
+
 [![Infra](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/zabbix.png" width="47"/>
 <img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/proxmox.png" width="47"/>
-<img src="https://raw.githubusercontent.com/arthurcfranklin/github-assets/main/dude.png" width="47"/>
+
+### Ferramentas
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+## 📚 Atualmente estudando
+
+- Administração de Sistemas Linux
+- Infraestrutura Avançada de Redes
+- Gestão de Tecnologia da Informação
+- Virtualização
+
+---
 
 
 ## 📧 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfranklin/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://behance.net/arthurcfranklin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/arthurcfranklin)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurdcaf@gmail.com)](mailto:arthurdcaf@gmail.com)
