@@ -31,6 +31,8 @@ Granduando em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimen
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![Markdown](https://skillicons.dev/icons?i=markdown)
 
 ### Banco de Dados
@@ -57,6 +59,8 @@ Granduando em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimen
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
