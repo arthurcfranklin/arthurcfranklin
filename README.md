@@ -70,9 +70,9 @@ Ferramenta para diagnóstico, automação e troubleshooting de ambientes Windows
 
 ### Frameworks e Ferramentas
 
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Markdown](https://skillicons.dev/icons?i=markdown)
 
