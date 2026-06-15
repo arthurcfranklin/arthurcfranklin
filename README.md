@@ -20,14 +20,14 @@ Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolviment
 
 ## 🚀 Projetos em Destaque
 
-### 📚 LibraryFlow
-Sistema web para gestão de bibliotecas desenvolvido com FastAPI, SQLAlchemy e SQLite.
+### [📚 LibraryFlow](https://github.com/arthurcfranklin/libraryflow)
+Sistema web para gestão de bibliotecas desenvolvido com **FastAPI**, **SQLAlchemy** e **SQLite**.
 
-### 🖥️ InfraTracker
-Plataforma para inventário, monitoramento e geração de relatórios de ativos de TI.
+### [🖥️ InfraTracker](https://github.com/arthurcfranklin/infratracker)
+Plataforma para **inventário**, **monitoramento** e geração de **relatórios de ativos** de TI.
 
-### 🛠️ TroubleFix
-Ferramenta para diagnóstico, automação e troubleshooting de ambientes Windows.
+### [🛠️ TroubleFix](https://github.com/arthurcfranklin/troublefix)
+Ferramenta para **diagnóstico**, **automação** e **troubleshooting** de ambientes Windows.
 
 ---
 
