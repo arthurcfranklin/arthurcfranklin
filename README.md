@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Franklin</h1>
 
 <p align="center">
-  Auxiliar de TI • Infraestrutura • Observabilidade • Automação
+  Auxiliar de TI • Infraestrutura • Monitoramento • Automação
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Profissional de TI com atuação em suporte técnico, monitoramento de ambientes, observabilidade e análise de incidentes.
 
-Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas, com interesse em suporte, infraestrutura, administração de servidores e virtualização.
+Graduando em Análise e Desenvolvimento de Sistemas, desenvolvendo projetos voltados para gestão de ativos, monitoramento de ambientes, virtualização e ferramentas de infraestrutura.
 
 ---
 
@@ -81,8 +81,9 @@ Ferramenta para **diagnóstico**, **automação** e **troubleshooting** de ambie
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arthurcfranklin&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcfranklin&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=arthurcfranklin&theme=github_dark&hide_border=true&show_icons=true"/>
+  
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurcfranklin&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
