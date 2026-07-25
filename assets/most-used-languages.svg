@@ -1,0 +1,220 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="580"
+  height="260"
+  viewBox="0 0 580 260"
+  role="img"
+  aria-label="Most Used Languages"
+>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c" />
+      <stop offset="100%" stop-color="#111319" />
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path
+        d="M28 0H0V28"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.025"
+        stroke-width="1"
+      />
+    </pattern>
+  </defs>
+
+  <rect
+    width="580"
+    height="260"
+    rx="16"
+    fill="url(#background)"
+  />
+
+  <rect
+    width="580"
+    height="260"
+    rx="16"
+    fill="url(#grid)"
+  />
+
+  <rect
+    x="26"
+    y="25"
+    width="50"
+    height="3"
+    rx="1.5"
+    fill="#b6becb"
+  />
+
+  <text
+    x="26"
+    y="61"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="21"
+    font-weight="700"
+  >Most Used Languages</text>
+
+  <text
+    x="26"
+    y="84"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="11"
+    font-weight="500"
+  >Language distribution across public repositories.</text>
+
+  <path
+    d="M26 101H554"
+    stroke="#ffffff"
+    stroke-opacity="0.075"
+  />
+
+  <rect
+    x="26.00"
+    y="121"
+    width="239.18"
+    height="10"
+    fill="#3572A5"
+  />
+  <rect
+    x="265.18"
+    y="121"
+    width="183.11"
+    height="10"
+    fill="#E34C26"
+  />
+  <rect
+    x="448.29"
+    y="121"
+    width="84.69"
+    height="10"
+    fill="#663399"
+  />
+  <rect
+    x="532.99"
+    y="121"
+    width="21.01"
+    height="10"
+    fill="#F1E05A"
+  />
+  <rect
+    x="26"
+    y="121"
+    width="528"
+    height="10"
+    rx="5.0"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.08"
+  />
+  <circle
+    cx="31"
+    cy="166"
+    r="5"
+    fill="#3572A5"
+  />
+
+  <text
+    x="44"
+    y="170"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+  >Python</text>
+
+  <text
+    x="44"
+    y="187"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+  >45.30%</text>
+  <circle
+    cx="297"
+    cy="166"
+    r="5"
+    fill="#E34C26"
+  />
+
+  <text
+    x="310"
+    y="170"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+  >HTML</text>
+
+  <text
+    x="310"
+    y="187"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+  >34.68%</text>
+  <circle
+    cx="31"
+    cy="207"
+    r="5"
+    fill="#663399"
+  />
+
+  <text
+    x="44"
+    y="211"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+  >CSS</text>
+
+  <text
+    x="44"
+    y="228"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+  >16.04%</text>
+  <circle
+    cx="297"
+    cy="207"
+    r="5"
+    fill="#F1E05A"
+  />
+
+  <text
+    x="310"
+    y="211"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+  >JavaScript</text>
+
+  <text
+    x="310"
+    y="228"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+  >3.98%</text>
+
+
+  <rect
+    x="0.75"
+    y="0.75"
+    width="578.5"
+    height="258.5"
+    rx="15.25"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.09"
+    stroke-width="1.5"
+  />
+</svg>

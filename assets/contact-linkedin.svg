@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="380"
+     height="104"
+     viewBox="0 0 380 104"
+     role="img"
+     aria-labelledby="title description">
+
+  <title id="title">Arthur Franklin LinkedIn</title>
+  <desc id="description">Connect with Arthur Franklin on LinkedIn</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c"/>
+      <stop offset="100%" stop-color="#111319"/>
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28"
+            fill="none"
+            stroke="#ffffff"
+            stroke-opacity="0.026"
+            stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="380" height="104" rx="14" fill="url(#background)"/>
+
+  <!-- Contact sequence indicator -->
+<g>
+  <rect
+    x="24"
+    y="13"
+    width="52"
+    height="3"
+    rx="1.5"
+    fill="#8f99a8"
+    fill-opacity="0.32"
+  />
+
+  <circle
+    cx="50"
+    cy="14.5"
+    r="3.5"
+    fill="#d7dce4"
+  />
+</g>
+
+
+  <rect width="380" height="104" rx="14" fill="url(#grid)"/>
+
+<!-- Official LinkedIn [in] mark -->
+<g transform="translate(27 25) scale(0.102)">
+  <path
+    fill="#ffffff"
+    d="M416 32H96C60.7 32 32 60.7 32 96v320c0 35.3 28.7 64 64 64h320c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64zM160 416H96V208h64v208zm-32-236.4c-20.5 0-37-16.6-37-37s16.5-37 37-37 37 16.6 37 37-16.5 37-37 37zM416 416h-64V314.7c0-24.2-.5-55.3-33.7-55.3-33.7 0-38.9 26.3-38.9 53.5V416h-64V208h61.5v28.4h.9c8.6-16.2 29.5-33.3 60.7-33.3 64.9 0 76.9 42.7 76.9 98.3V416z"
+  />
+</g>
+
+  <text x="96" y="48"
+        fill="#f4f6f8"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="18"
+        font-weight="700">
+    LinkedIn
+  </text>
+
+  <text x="96" y="73"
+        fill="#929cab"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="13"
+        font-weight="500">
+    Connect professionally
+  </text>
+
+  <path d="M338 44L348 52L338 60"
+        fill="none"
+        stroke="#b9c1cd"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <rect x="0.75" y="0.75"
+        width="378.5" height="102.5"
+        rx="13.25"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.09"
+        stroke-width="1.5"/>
+</svg>

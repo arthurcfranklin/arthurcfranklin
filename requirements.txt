@@ -1,0 +1,5 @@
+# This project uses only the Python Standard Library.
+# No external dependencies are required.
+#
+# Recommended Python version:
+# Python 3.11+

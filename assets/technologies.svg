@@ -1,0 +1,523 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="390"
+  viewBox="0 0 1200 390"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Arthur Franklin — Technologies and Technical Competencies</title>
+
+  <desc id="description">
+    Technical competencies grouped into Infrastructure and Support,
+    Monitoring and Operations, and Development and Automation.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c" />
+      <stop offset="100%" stop-color="#111319" />
+    </linearGradient>
+
+    <pattern
+      id="grid"
+      width="32"
+      height="32"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M32 0H0V32"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.03"
+        stroke-width="1"
+      />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    width="1200"
+    height="390"
+    rx="18"
+    fill="url(#background)"
+  />
+
+  <rect
+    width="1200"
+    height="390"
+    rx="18"
+    fill="url(#grid)"
+  />
+
+  <!-- Header -->
+  <rect
+    x="42"
+    y="34"
+    width="62"
+    height="4"
+    rx="2"
+    fill="#b6becb"
+  />
+
+  <text
+    x="42"
+    y="78"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="27"
+    font-weight="700"
+    letter-spacing="-0.5"
+  >
+    Technologies &amp; Competencies
+  </text>
+
+  <text
+    x="42"
+    y="105"
+    fill="#8f99a8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="14"
+    font-weight="500"
+  >
+    Technologies, platforms and practices applied across IT operations.
+  </text>
+
+  <!-- Column dividers -->
+  <path
+    d="M400 137V350"
+    stroke="#ffffff"
+    stroke-opacity="0.075"
+    stroke-width="1"
+  />
+
+  <path
+    d="M800 137V350"
+    stroke="#ffffff"
+    stroke-opacity="0.075"
+    stroke-width="1"
+  />
+
+  <!-- ===================================================== -->
+  <!-- Infrastructure & Support -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(42 145)">
+    <!-- Section signal -->
+    <circle cx="10" cy="10" r="5" fill="#d2d7df" />
+
+    <path
+      d="M20 10H46"
+      stroke="#8791a1"
+      stroke-width="2"
+      stroke-linecap="round"
+    />
+
+    <text
+      x="0"
+      y="46"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Infrastructure &amp; Support
+    </text>
+
+    <!-- Row 1 -->
+    <text
+      x="0"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Windows
+    </text>
+
+    <text
+      x="92"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Linux
+    </text>
+
+    <text
+      x="158"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Networking
+    </text>
+
+    <!-- Row 2 -->
+    <text
+      x="0"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Technical Support
+    </text>
+
+    <text
+      x="146"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Troubleshooting
+    </text>
+
+    <!-- Row 3 -->
+    <text
+      x="0"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Asset Management
+    </text>
+
+    <text
+      x="150"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Cloudflare
+    </text>
+
+    <text
+      x="0"
+      y="197"
+      fill="#818b9b"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="13"
+      font-weight="500"
+      letter-spacing="0.4"
+    >
+      SYSTEMS · SUPPORT · INFRASTRUCTURE
+    </text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- Monitoring & Operations -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(430 145)">
+    <circle cx="10" cy="10" r="5" fill="#d2d7df" />
+
+    <path
+      d="M20 10H46"
+      stroke="#8791a1"
+      stroke-width="2"
+      stroke-linecap="round"
+    />
+
+    <text
+      x="0"
+      y="46"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Monitoring &amp; Operations
+    </text>
+
+    <!-- Row 1 -->
+    <text
+      x="0"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Zabbix
+    </text>
+
+    <text
+      x="72"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Proxmox VE
+    </text>
+
+    <text
+      x="180"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Grafana
+    </text>
+
+    <!-- Row 2 -->
+    <text
+      x="0"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Observability
+    </text>
+
+    <text
+      x="116"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Metrics Analysis
+    </text>
+
+    <!-- Row 3 -->
+    <text
+      x="0"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Incident Analysis
+    </text>
+
+    <text
+      x="138"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Technical Documentation
+    </text>
+
+    <text
+      x="0"
+      y="197"
+      fill="#818b9b"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="13"
+      font-weight="500"
+      letter-spacing="0.4"
+    >
+      MONITORING · VISIBILITY · INCIDENTS
+    </text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- Development & Automation -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(830 145)">
+    <circle cx="10" cy="10" r="5" fill="#d2d7df" />
+
+    <path
+      d="M20 10H46"
+      stroke="#8791a1"
+      stroke-width="2"
+      stroke-linecap="round"
+    />
+
+    <text
+      x="0"
+      y="46"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Development &amp; Automation
+    </text>
+
+    <!-- Row 1 -->
+    <text
+      x="0"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Python
+    </text>
+
+    <text
+      x="70"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      JavaScript
+    </text>
+
+    <text
+      x="165"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      HTML
+    </text>
+
+    <text
+      x="224"
+      y="86"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      CSS
+    </text>
+
+    <!-- Row 2 -->
+    <text
+      x="0"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      FastAPI
+    </text>
+
+    <text
+      x="77"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Flask
+    </text>
+
+    <text
+      x="132"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      SQL
+    </text>
+
+    <text
+      x="176"
+      y="119"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      MySQL
+    </text>
+
+    <!-- Row 3 -->
+    <text
+      x="0"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      SQLAlchemy
+    </text>
+
+    <text
+      x="104"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      Git
+    </text>
+
+    <text
+      x="144"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      GitHub
+    </text>
+
+    <text
+      x="213"
+      y="152"
+      fill="#b7bfcb"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+    >
+      GitLab
+    </text>
+
+    <text
+      x="0"
+      y="197"
+      fill="#818b9b"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="13"
+      font-weight="500"
+      letter-spacing="0.4"
+    >
+      AUTOMATION · WEB · VERSION CONTROL
+    </text>
+  </g>
+
+  <!-- Border -->
+  <rect
+    x="0.75"
+    y="0.75"
+    width="1198.5"
+    height="388.5"
+    rx="17.25"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.09"
+    stroke-width="1.5"
+  />
+</svg>

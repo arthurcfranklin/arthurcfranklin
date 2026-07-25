@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="580"
+     height="250"
+     viewBox="0 0 580 250"
+     role="img"
+     aria-labelledby="title description">
+
+  <title id="title">InfraTracker</title>
+  <desc id="description">
+    Infrastructure inventory and monitoring platform.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c"/>
+      <stop offset="100%" stop-color="#111319"/>
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28"
+            fill="none"
+            stroke="#ffffff"
+            stroke-opacity="0.028"
+            stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="580" height="250" rx="16" fill="url(#background)"/>
+  <rect width="580" height="250" rx="16" fill="url(#grid)"/>
+
+  <rect x="30" y="28" width="52" height="4" rx="2" fill="#b6becb"/>
+
+  <text x="30" y="75"
+        fill="#f4f6f8"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="29"
+        font-weight="700"
+        letter-spacing="-0.6">
+    InfraTracker
+  </text>
+
+  <text x="30" y="108"
+        fill="#b7bfcb"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="14"
+        font-weight="600"
+        letter-spacing="1.5">
+    INFRASTRUCTURE OPERATIONS
+  </text>
+
+  <text x="30" y="149"
+        fill="#d2d7df"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="16">
+    Asset inventory, availability monitoring
+  </text>
+
+  <text x="30" y="173"
+        fill="#d2d7df"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="16">
+    and infrastructure reporting in one platform.
+  </text>
+
+  <text x="30" y="216"
+        fill="#818b9b"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="13"
+        font-weight="500">
+    PYTHON · FASTAPI · SQLALCHEMY
+  </text>
+
+  <g transform="translate(416 61) scale(0.88)">
+    <rect x="10" y="4"
+          width="105" height="30"
+          rx="5"
+          fill="none"
+          stroke="#aab3c1"
+          stroke-opacity="0.62"
+          stroke-width="2"/>
+
+    <rect x="10" y="49"
+          width="105" height="30"
+          rx="5"
+          fill="none"
+          stroke="#aab3c1"
+          stroke-opacity="0.62"
+          stroke-width="2"/>
+
+    <rect x="10" y="94"
+          width="105" height="30"
+          rx="5"
+          fill="none"
+          stroke="#aab3c1"
+          stroke-opacity="0.62"
+          stroke-width="2"/>
+
+    <circle cx="25" cy="19" r="3" fill="#d1d6de"/>
+    <circle cx="25" cy="64" r="3" fill="#d1d6de"/>
+    <circle cx="25" cy="109" r="3" fill="#d1d6de"/>
+
+    <path d="M40 19H94M40 64H94M40 109H94"
+          stroke="#8791a1"
+          stroke-width="2"
+          stroke-linecap="round"/>
+
+    <path d="M0 144L20 130L39 137L60 113L78 123L99 89L124 102"
+          fill="none"
+          stroke="#d1d6de"
+          stroke-width="2.5"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+  </g>
+
+  <rect x="0.75" y="0.75"
+        width="578.5" height="248.5"
+        rx="15.25"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.09"
+        stroke-width="1.5"/>
+</svg>

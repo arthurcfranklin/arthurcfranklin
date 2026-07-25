@@ -1,0 +1,194 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="580"
+  height="260"
+  viewBox="0 0 580 260"
+  role="img"
+  aria-label="GitHub Overview"
+>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c" />
+      <stop offset="100%" stop-color="#111319" />
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path
+        d="M28 0H0V28"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.025"
+        stroke-width="1"
+      />
+    </pattern>
+  </defs>
+
+  <rect
+    width="580"
+    height="260"
+    rx="16"
+    fill="url(#background)"
+  />
+
+  <rect
+    width="580"
+    height="260"
+    rx="16"
+    fill="url(#grid)"
+  />
+
+  <rect
+    x="26"
+    y="25"
+    width="50"
+    height="3"
+    rx="1.5"
+    fill="#b6becb"
+  />
+
+  <text
+    x="26"
+    y="61"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="21"
+    font-weight="700"
+  >GitHub Overview</text>
+
+  <text
+    x="26"
+    y="84"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="11"
+    font-weight="500"
+  >Development activity across public repositories.</text>
+
+  <path
+    d="M26 101H554"
+    stroke="#ffffff"
+    stroke-opacity="0.075"
+  />
+
+  <text
+    x="26"
+    y="145"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >325</text>
+
+  <text
+    x="26"
+    y="165"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="600"
+    letter-spacing="0.7"
+  >CONTRIBUTIONS</text>
+  <text
+    x="205"
+    y="145"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >132</text>
+
+  <text
+    x="205"
+    y="165"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="600"
+    letter-spacing="0.7"
+  >COMMITS</text>
+  <text
+    x="382"
+    y="145"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >1</text>
+
+  <text
+    x="382"
+    y="165"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="600"
+    letter-spacing="0.7"
+  >PULL REQUESTS</text>
+  <text
+    x="26"
+    y="211"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >8</text>
+
+  <text
+    x="26"
+    y="231"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="600"
+    letter-spacing="0.7"
+  >ISSUES</text>
+  <text
+    x="205"
+    y="211"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >10</text>
+
+  <text
+    x="205"
+    y="231"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="600"
+    letter-spacing="0.7"
+  >REPOSITORIES</text>
+  <text
+    x="382"
+    y="211"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >12</text>
+
+  <text
+    x="382"
+    y="231"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="600"
+    letter-spacing="0.7"
+  >FOLLOWERS</text>
+
+
+  <rect
+    x="0.75"
+    y="0.75"
+    width="578.5"
+    height="258.5"
+    rx="15.25"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.09"
+    stroke-width="1.5"
+  />
+</svg>
