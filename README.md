@@ -109,12 +109,13 @@
   <img
     src="./assets/github-overview.svg"
     alt="Arthur Franklin's GitHub overview"
-    width="49%"
+    width="48.5%"
   />
+  &nbsp;
   <img
     src="./assets/most-used-languages.svg"
     alt="Arthur Franklin's most used languages"
-    width="49%"
+    width="48.5%"
   />
 </p>
 
@@ -122,12 +123,13 @@
   <img
     src="./assets/contribution-streak.svg"
     alt="Arthur Franklin's contribution streak"
-    width="49%"
+    width="48.5%"
   />
+  &nbsp;
   <img
     src="./assets/repository-overview.svg"
     alt="Arthur Franklin's repository statistics"
-    width="49%"
+    width="48.5%"
   />
 </p>
 
