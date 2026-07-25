@@ -1,0 +1,197 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="360"
+  viewBox="0 0 1200 360"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Arthur Franklin</title>
+  <desc id="description">
+    Technical Support, Infrastructure and Automation.
+    Building practical tools that simplify IT operations.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c" />
+      <stop offset="100%" stop-color="#111319" />
+    </linearGradient>
+
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b94a5" stop-opacity="0" />
+      <stop offset="50%" stop-color="#b6becb" stop-opacity="0.72" />
+      <stop offset="100%" stop-color="#8b94a5" stop-opacity="0" />
+    </linearGradient>
+
+    <pattern
+      id="grid"
+      width="32"
+      height="32"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M 32 0 L 0 0 0 32"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.035"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <filter
+      id="glow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur stdDeviation="16" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    width="1200"
+    height="360"
+    rx="18"
+    fill="url(#background)"
+  />
+
+  <rect
+    width="1200"
+    height="360"
+    rx="18"
+    fill="url(#grid)"
+  />
+
+  <!-- Subtle glow -->
+  <circle
+    cx="1040"
+    cy="170"
+    r="175"
+    fill="#8d99ae"
+    opacity="0.055"
+    filter="url(#glow)"
+  />
+
+  <!-- Accent -->
+  <rect
+    x="72"
+    y="66"
+    width="74"
+    height="4"
+    rx="2"
+    fill="#aab3c1"
+  />
+
+  <!-- Identity -->
+  <text
+    x="72"
+    y="125"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="43"
+    font-weight="700"
+    letter-spacing="-1.2"
+  >
+    Arthur Franklin
+  </text>
+
+  <text
+    x="72"
+    y="168"
+    fill="#b9c1cd"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="17"
+    font-weight="600"
+    letter-spacing="2.2"
+  >
+    TECHNICAL SUPPORT · INFRASTRUCTURE · AUTOMATION
+  </text>
+
+  <rect
+    x="72"
+    y="199"
+    width="590"
+    height="1.5"
+    fill="url(#accent-line)"
+  />
+
+  <text
+    x="72"
+    y="246"
+    fill="#d4d9e1"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="21"
+    font-weight="400"
+  >
+    Building practical tools that simplify IT operations.
+  </text>
+
+  <text
+    x="72"
+    y="293"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="15"
+    font-weight="500"
+    letter-spacing="0.3"
+  >
+    arthurfranklin.com.br
+  </text>
+
+  <!-- Infrastructure topology -->
+  <g>
+    <path
+      d="M 891 116 L 981 80 L 1077 123 L 1010 180 L 1102 238 L 984 276 L 891 224 Z"
+      fill="none"
+      stroke="#8b95a6"
+      stroke-width="1.4"
+      stroke-opacity="0.28"
+    />
+
+    <path
+      d="M 891 116 L 1010 180 L 984 276
+         M 981 80 L 1010 180
+         M 1077 123 L 1010 180
+         M 1102 238 L 1010 180
+         M 891 224 L 1010 180"
+      fill="none"
+      stroke="#aeb6c3"
+      stroke-width="1"
+      stroke-opacity="0.18"
+    />
+
+    <circle cx="891" cy="116" r="5" fill="#9ca6b5" />
+    <circle cx="981" cy="80" r="5" fill="#c5cbd5" />
+    <circle cx="1077" cy="123" r="5" fill="#9ca6b5" />
+    <circle cx="1010" cy="180" r="7" fill="#d4d9e1" />
+    <circle cx="1102" cy="238" r="5" fill="#c5cbd5" />
+    <circle cx="984" cy="276" r="5" fill="#9ca6b5" />
+    <circle cx="891" cy="224" r="5" fill="#9ca6b5" />
+
+    <circle
+      cx="1010"
+      cy="180"
+      r="17"
+      fill="none"
+      stroke="#c4cbd6"
+      stroke-opacity="0.14"
+      stroke-width="1"
+    />
+  </g>
+
+  <!-- Border -->
+  <rect
+    x="0.75"
+    y="0.75"
+    width="1198.5"
+    height="358.5"
+    rx="17.25"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.09"
+    stroke-width="1.5"
+  />
+</svg>

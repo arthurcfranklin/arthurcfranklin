@@ -1,0 +1,61 @@
+name: Update GitHub statistics
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "15 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-stats
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    name: Generate and publish statistics
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate statistics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_stats.py
+
+      - name: Check for generated changes
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes were generated."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Generated files were updated."
+          fi
+
+      - name: Commit generated statistics
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/
+          git commit -m "chore(stats): update GitHub statistics"
+
+      - name: Push generated statistics
+        if: steps.changes.outputs.changed == 'true'
+        run: git push

@@ -1,0 +1,240 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="300"
+  viewBox="0 0 1200 300"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">About Arthur Franklin</title>
+
+  <desc id="description">
+    Technical Support and IT Infrastructure professional focused on monitoring,
+    automation and reliable IT operations.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c" />
+      <stop offset="100%" stop-color="#111319" />
+    </linearGradient>
+
+    <pattern
+      id="grid"
+      width="32"
+      height="32"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M32 0H0V32"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.03"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b94a5" stop-opacity="0" />
+      <stop offset="50%" stop-color="#b6becb" stop-opacity="0.72" />
+      <stop offset="100%" stop-color="#8b94a5" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    width="1200"
+    height="300"
+    rx="18"
+    fill="url(#background)"
+  />
+
+  <rect
+    width="1200"
+    height="300"
+    rx="18"
+    fill="url(#grid)"
+  />
+
+  <!-- Header accent -->
+  <rect
+    x="44"
+    y="38"
+    width="62"
+    height="4"
+    rx="2"
+    fill="#b6becb"
+  />
+
+  <!-- Section title -->
+  <text
+    x="44"
+    y="82"
+    fill="#f4f6f8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="27"
+    font-weight="700"
+    letter-spacing="-0.5"
+  >
+    About
+  </text>
+
+  <text
+    x="44"
+    y="111"
+    fill="#8f99a8"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="14"
+    font-weight="500"
+  >
+    Built from real operational challenges.
+  </text>
+
+  <!-- Horizontal divider -->
+  <rect
+    x="44"
+    y="137"
+    width="650"
+    height="1.5"
+    fill="url(#accent-line)"
+  />
+
+  <!-- Main copy -->
+  <text
+    x="44"
+    y="177"
+    fill="#d6dbe3"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="18"
+    font-weight="400"
+  >
+    I work in Technical Support and IT Infrastructure, where I build practical solutions
+  </text>
+
+  <text
+    x="44"
+    y="205"
+    fill="#d6dbe3"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="18"
+    font-weight="400"
+  >
+    that improve operational efficiency through automation, monitoring and reliable systems.
+  </text>
+
+  <text
+    x="44"
+    y="250"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="16"
+    font-weight="400"
+  >
+    My projects originate from real operational needs, with a focus on maintainability,
+  </text>
+
+  <text
+    x="44"
+    y="275"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="16"
+    font-weight="400"
+  >
+    privacy, clarity and long-term usability.
+  </text>
+
+  <!-- Vertical divider -->
+  <path
+    d="M780 54V266"
+    stroke="#ffffff"
+    stroke-opacity="0.075"
+    stroke-width="1"
+  />
+
+  <!-- Core expertise -->
+  <g transform="translate(832 54)">
+    <circle
+      cx="14"
+      cy="14"
+      r="5"
+      fill="#d2d7df"
+    />
+
+    <path
+      d="M26 14H58"
+      stroke="#8791a1"
+      stroke-width="2"
+      stroke-linecap="round"
+    />
+
+    <text
+      x="0"
+      y="55"
+      fill="#8f99a8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="13"
+      font-weight="600"
+      letter-spacing="1.3"
+    >
+      CORE EXPERTISE
+    </text>
+
+    <text
+      x="0"
+      y="92"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Technical Support
+    </text>
+
+    <text
+      x="0"
+      y="126"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Infrastructure
+    </text>
+
+    <text
+      x="0"
+      y="160"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Monitoring
+    </text>
+
+    <text
+      x="0"
+      y="194"
+      fill="#f4f6f8"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="700"
+    >
+      Automation
+    </text>
+  </g>
+
+  <!-- Border -->
+  <rect
+    x="0.75"
+    y="0.75"
+    width="1198.5"
+    height="298.5"
+    rx="17.25"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.09"
+    stroke-width="1.5"
+  />
+</svg>

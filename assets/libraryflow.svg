@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="580"
+     height="250"
+     viewBox="0 0 580 250"
+     role="img"
+     aria-labelledby="title description">
+
+  <title id="title">LibraryFlow</title>
+  <desc id="description">
+    Library management system built for clear and reliable workflows.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090c"/>
+      <stop offset="100%" stop-color="#111319"/>
+    </linearGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28"
+            fill="none"
+            stroke="#ffffff"
+            stroke-opacity="0.028"
+            stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="580" height="250" rx="16" fill="url(#background)"/>
+  <rect width="580" height="250" rx="16" fill="url(#grid)"/>
+
+  <rect x="30" y="28" width="52" height="4" rx="2" fill="#b6becb"/>
+
+  <text x="30" y="75"
+        fill="#f4f6f8"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="29"
+        font-weight="700"
+        letter-spacing="-0.6">
+    LibraryFlow
+  </text>
+
+  <text x="30" y="108"
+        fill="#b7bfcb"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="14"
+        font-weight="600"
+        letter-spacing="1.5">
+    LIBRARY MANAGEMENT
+  </text>
+
+  <text x="30" y="149"
+        fill="#d2d7df"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="16">
+    A structured system for catalog management,
+  </text>
+
+  <text x="30" y="173"
+        fill="#d2d7df"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="16">
+    circulation and administrative workflows.
+  </text>
+
+  <text x="30" y="216"
+        fill="#818b9b"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="13"
+        font-weight="500">
+    PYTHON · FASTAPI · SQLITE
+  </text>
+
+  <g transform="translate(418 62) scale(0.88)">
+    <path d="M8 15C28 5 51 7 65 18V128C50 117 28 115 8 125Z"
+          fill="none"
+          stroke="#aab3c1"
+          stroke-opacity="0.66"
+          stroke-width="2"/>
+
+    <path d="M122 15C102 5 79 7 65 18V128C80 117 102 115 122 125Z"
+          fill="none"
+          stroke="#aab3c1"
+          stroke-opacity="0.66"
+          stroke-width="2"/>
+
+    <path d="M65 18V128"
+          stroke="#d0d5dd"
+          stroke-opacity="0.72"
+          stroke-width="2"/>
+
+    <path d="M22 38C36 32 49 34 57 39
+             M22 58C36 52 49 54 57 59
+             M22 78C36 72 49 74 57 79"
+          fill="none"
+          stroke="#8791a1"
+          stroke-width="1.7"
+          stroke-linecap="round"/>
+
+    <path d="M108 38C94 32 81 34 73 39
+             M108 58C94 52 81 54 73 59
+             M108 78C94 72 81 74 73 79"
+          fill="none"
+          stroke="#8791a1"
+          stroke-width="1.7"
+          stroke-linecap="round"/>
+  </g>
+
+  <rect x="0.75" y="0.75"
+        width="578.5" height="248.5"
+        rx="15.25"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity="0.09"
+        stroke-width="1.5"/>
+</svg>
