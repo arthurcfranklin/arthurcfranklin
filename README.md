@@ -105,40 +105,31 @@
 
 ## GitHub Statistics
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img
-        src="./assets/github-overview.svg"
-        alt="Arthur Franklin's GitHub overview"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img
-        src="./assets/most-used-languages.svg"
-        alt="Arthur Franklin's most used languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img
-        src="./assets/contribution-streak.svg"
-        alt="Arthur Franklin's contribution streak"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img
-        src="./assets/repository-overview.svg"
-        alt="Arthur Franklin's repository statistics"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="./assets/github-overview.svg"
+    alt="Arthur Franklin's GitHub overview"
+    width="49%"
+  />
+  <img
+    src="./assets/most-used-languages.svg"
+    alt="Arthur Franklin's most used languages"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/contribution-streak.svg"
+    alt="Arthur Franklin's contribution streak"
+    width="49%"
+  />
+  <img
+    src="./assets/repository-overview.svg"
+    alt="Arthur Franklin's repository statistics"
+    width="49%"
+  />
+</p>
 
 <p align="center">
   <sub>Support. Infrastructure. Automation.</sub>
