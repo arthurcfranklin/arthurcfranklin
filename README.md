@@ -6,37 +6,31 @@
   />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="33.33%" align="center" valign="middle">
-      <a href="https://arthurfranklin.com.br">
-        <img
-          src="./assets/contact-website.svg"
-          alt="Arthur Franklin Website"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/arthurfranklin">
-        <img
-          src="./assets/contact-linkedin.svg"
-          alt="Arthur Franklin LinkedIn"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="middle">
-      <a href="mailto:arthur@arthurfranklin.com.br">
-        <img
-          src="./assets/contact-email.svg"
-          alt="Arthur Franklin Email"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://arthurfranklin.com.br">
+    <img
+      src="./assets/contact-website.svg"
+      alt="Arthur Franklin Website"
+      width="32%"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arthurfranklin">
+    <img
+      src="./assets/contact-linkedin.svg"
+      alt="Arthur Franklin LinkedIn"
+      width="32%"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:arthur@arthurfranklin.com.br">
+    <img
+      src="./assets/contact-email.svg"
+      alt="Arthur Franklin Email"
+      width="32%"
+    />
+  </a>
+</p>
 
 ## About
 
@@ -50,48 +44,41 @@
 
 ## Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/arthurcfranklin/forgedocs">
-        <img
-          src="./assets/forgedocs.svg"
-          alt="ForgeDocs"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/arthurcfranklin/infratracker">
-        <img
-          src="./assets/infratracker.svg"
-          alt="InfraTracker"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/arthurcfranklin/libraryflow">
-        <img
-          src="./assets/libraryflow.svg"
-          alt="LibraryFlow"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/arthurcfranklin/troublefix">
-        <img
-          src="./assets/troublefix.svg"
-          alt="TroubleFix"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/arthurcfranklin/forgedocs">
+    <img
+      src="./assets/forgedocs.svg"
+      alt="ForgeDocs"
+      width="48.5%"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/arthurcfranklin/infratracker">
+    <img
+      src="./assets/infratracker.svg"
+      alt="InfraTracker"
+      width="48.5%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arthurcfranklin/libraryflow">
+    <img
+      src="./assets/libraryflow.svg"
+      alt="LibraryFlow"
+      width="48.5%"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/arthurcfranklin/troublefix">
+    <img
+      src="./assets/troublefix.svg"
+      alt="TroubleFix"
+      width="48.5%"
+    />
+  </a>
+</p>
 
 ## Technical Competencies
 
