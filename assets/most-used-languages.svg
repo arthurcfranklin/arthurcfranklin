@@ -73,35 +73,35 @@
   <rect
     x="26.00"
     y="121"
-    width="264.31"
+    width="243.98"
     height="10"
     fill="#3572A5"
   />
   <rect
-    x="290.31"
+    x="269.98"
     y="121"
-    width="102.12"
+    width="134.52"
     height="10"
     fill="#3178c6"
   />
   <rect
-    x="392.43"
+    x="404.50"
     y="121"
-    width="91.46"
+    width="84.43"
     height="10"
     fill="#e34c26"
   />
   <rect
-    x="483.89"
+    x="488.93"
     y="121"
-    width="57.02"
+    width="52.99"
     height="10"
     fill="#663399"
   />
   <rect
-    x="540.91"
+    x="541.91"
     y="121"
-    width="13.09"
+    width="12.09"
     height="10"
     fill="#f1e05a"
   />
@@ -138,7 +138,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >50.06%</text>
+  >46.21%</text>
   <circle
     cx="297"
     cy="166"
@@ -162,7 +162,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >19.34%</text>
+  >25.48%</text>
   <circle
     cx="31"
     cy="207"
@@ -186,7 +186,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >17.32%</text>
+  >15.99%</text>
   <circle
     cx="297"
     cy="207"
@@ -210,7 +210,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >10.80%</text>
+  >10.04%</text>
   <circle
     cx="31"
     cy="239"
@@ -234,7 +234,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >2.48%</text>
+  >2.29%</text>
 
 
   <rect
