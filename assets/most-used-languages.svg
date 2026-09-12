@@ -73,26 +73,26 @@
   <rect
     x="26.00"
     y="121"
-    width="194.44"
+    width="194.47"
     height="10"
     fill="#3572A5"
   />
   <rect
-    x="220.44"
+    x="220.47"
     y="121"
-    width="162.04"
+    width="162.00"
     height="10"
     fill="#3178c6"
   />
   <rect
-    x="382.48"
+    x="382.46"
     y="121"
-    width="95.56"
+    width="95.57"
     height="10"
     fill="#e34c26"
   />
   <rect
-    x="478.04"
+    x="478.03"
     y="121"
     width="66.33"
     height="10"
@@ -162,7 +162,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >30.69%</text>
+  >30.68%</text>
   <circle
     cx="31"
     cy="207"
