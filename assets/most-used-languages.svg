@@ -73,35 +73,35 @@
   <rect
     x="26.00"
     y="121"
-    width="194.47"
-    height="10"
-    fill="#3572A5"
-  />
-  <rect
-    x="220.47"
-    y="121"
-    width="162.00"
+    width="257.01"
     height="10"
     fill="#3178c6"
   />
   <rect
-    x="382.46"
+    x="283.01"
     y="121"
-    width="95.57"
+    width="143.16"
+    height="10"
+    fill="#3572A5"
+  />
+  <rect
+    x="426.17"
+    y="121"
+    width="70.36"
     height="10"
     fill="#e34c26"
   />
   <rect
-    x="478.03"
+    x="496.53"
     y="121"
-    width="66.33"
+    width="48.98"
     height="10"
     fill="#663399"
   />
   <rect
-    x="544.37"
+    x="545.51"
     y="121"
-    width="9.63"
+    width="8.49"
     height="10"
     fill="#f1e05a"
   />
@@ -119,35 +119,11 @@
     cx="31"
     cy="166"
     r="5"
-    fill="#3572A5"
-  />
-
-  <text
-    x="44"
-    y="170"
-    fill="#aab3c0"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="12"
-    font-weight="600"
-  >Python</text>
-
-  <text
-    x="44"
-    y="187"
-    fill="#818b9b"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="10"
-    font-weight="500"
-  >36.83%</text>
-  <circle
-    cx="297"
-    cy="166"
-    r="5"
     fill="#3178c6"
   />
 
   <text
-    x="310"
+    x="44"
     y="170"
     fill="#aab3c0"
     font-family="Inter, Segoe UI, Arial, sans-serif"
@@ -156,13 +132,37 @@
   >TypeScript</text>
 
   <text
+    x="44"
+    y="187"
+    fill="#818b9b"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+  >48.68%</text>
+  <circle
+    cx="297"
+    cy="166"
+    r="5"
+    fill="#3572A5"
+  />
+
+  <text
+    x="310"
+    y="170"
+    fill="#aab3c0"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+  >Python</text>
+
+  <text
     x="310"
     y="187"
     fill="#818b9b"
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >30.68%</text>
+  >27.11%</text>
   <circle
     cx="31"
     cy="207"
@@ -186,7 +186,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >18.10%</text>
+  >13.32%</text>
   <circle
     cx="297"
     cy="207"
@@ -210,7 +210,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >12.56%</text>
+  >9.28%</text>
   <circle
     cx="31"
     cy="239"
@@ -234,7 +234,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >1.82%</text>
+  >1.61%</text>
 
 
   <rect
