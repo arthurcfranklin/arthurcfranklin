@@ -77,7 +77,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="25"
     font-weight="700"
-  >0</text>
+  >1</text>
 
   <text
     x="26"
@@ -113,7 +113,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="25"
     font-weight="700"
-  >41</text>
+  >42</text>
 
   <text
     x="382"
@@ -131,7 +131,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="12"
     font-weight="500"
-  >2025-09-19 — 2026-09-19</text>
+  >2025-09-20 — 2026-09-20</text>
 
   <text
     x="26"
@@ -140,7 +140,7 @@
     font-family="Inter, Segoe UI, Arial, sans-serif"
     font-size="10"
     font-weight="500"
-  >Updated Sep 19, 2026</text>
+  >Updated Sep 20, 2026</text>
 
 
   <rect
