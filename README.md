@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Franklin</h1>
 
 <h3 align="center">
-  IT Support Technician · Infrastructure & Automation
+  IT Support Technician · Infrastructure · Automation
 </h3>
 
 <p align="center">
@@ -84,7 +84,7 @@ Local-first document processing suite for Windows, built with Python and CustomT
 
 **Focus:** `Python` `Windows` `Desktop Application` `Document Processing` `Privacy`
 
-[→ **View repository**](https://github.com/arthurcfranklin/forgedocs)
+<a href="https://github.com/arthurcfranklin/forgedocs">View repository</a>
 
 </details>
 
@@ -94,9 +94,9 @@ Local-first document processing suite for Windows, built with Python and CustomT
 
 Web-based library management system built with FastAPI, SQLAlchemy and SQLite.
 
-**Focus:** `Python` `FastAPI` `SQLAlchemy` `SQLite` `Back-end Development`
+**Focus:** `Python` `FastAPI` `SQLAlchemy` `SQLite` `Backend Development`
 
-[→ **View repository**](https://github.com/arthurcfranklin/libraryflow)
+<a href="https://github.com/arthurcfranklin/libraryflow">View repository</a>
 
 </details>
 
@@ -106,21 +106,21 @@ Web-based library management system built with FastAPI, SQLAlchemy and SQLite.
 
 IT infrastructure monitoring and asset management platform built with Python.
 
-**Focus:** `Python` `Infrastructure` `Monitoring` `Automation` `SQLite`
+**Focus:** `Python` `Infrastructure` `Monitoring` `Automation`
 
-[→ **View repository**](https://github.com/arthurcfranklin/infratracker)
+<a href="https://github.com/arthurcfranklin/infratracker">View repository</a>
 
 </details>
 
 <details>
-<summary><strong>TroubleFix</strong> — IT troubleshooting toolkit</summary>
+<summary><strong>Link Hub</strong> — Personal link hub</summary>
 <br/>
 
-Windows troubleshooting toolkit for IT support and infrastructure operations.
+Lightweight personal link hub for portfolio, projects, professional profiles, and contact information.
 
-**Focus:** `Python` `Windows` `Networking` `Help Desk` `Infrastructure`
+**Focus:** `HTML` `CSS` `Responsive Design` `Web Security`
 
-[→ **View repository**](https://github.com/arthurcfranklin/troublefix)
+<a href="https://github.com/arthurcfranklin/link-hub">View repository</a>
 
 </details>
 
